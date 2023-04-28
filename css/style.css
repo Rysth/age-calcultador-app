@@ -167,4 +167,7 @@ body {
 	.calculator__button:hover {
 		background-color: var(--CL-neutral-off-black);
 	}
+	.calculator__button:active {
+		background-color: var(--CL-neutral-smokey-gray);
+	}
 }
